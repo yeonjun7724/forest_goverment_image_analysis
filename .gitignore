@@ -1,0 +1,15 @@
+# QGIS temp/backup files
+*.qgz~
+*.qgs~
+*.qgd
+*.aux.xml
+*.gpkg-wal
+*.gpkg-shm
+
+# Student outputs
+2_실습패키지_forest_rs/forest_rs/output/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
